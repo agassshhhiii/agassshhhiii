@@ -1,7 +1,7 @@
 <h1>
   Привет!
 </h1>
-Меня зовут Анастасия и я начинающий QA Engineer. Здесь я хочу поделиться некоторыми элементами портфолио по тестированию, а более подробно о моем опыте и навыках можно узнать из <!--<a href="https://docs.google.com/document/d/11bJt0FqSYUk3LOryaEMa4bf5tpM0DNpmVYW2-TXsVwY/edit?pli=1#heading=h.78rlvk1sif5a" rel="noflow">CV</a>-->
+<!--<a href="https://docs.google.com/document/d/11bJt0FqSYUk3LOryaEMa4bf5tpM0DNpmVYW2-TXsVwY/edit?pli=1#heading=h.78rlvk1sif5a" rel="noflow">CV</a>-->
 <!--
 ---
 ### Соцсети
